@@ -23,4 +23,3 @@ I'm a Network Engineer and also Graphic Designer 👀
 <a href="https://github.com/senhan07/auto-debian">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=senhan07&theme=github_dark&hide_border=true&repo=auto-debian" />
 </a>
----
