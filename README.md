@@ -5,7 +5,7 @@ I'm a Network Engineer and also Graphic Designer 👀
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=senhan07&cover_image=true&theme=default"/>
 </a>
 
-- Website [senhan07.github.io](https://senhan07.github.io/)
+- Website [senhan.my.id](https://senhan.my.id/)
 - Instagram [@senhan07](https://instagram.com/senhan07)
 
 
