@@ -1,7 +1,7 @@
 
 # Hi ! 👋
 I'm a Network Engineer and also Graphic Designer 👀
-<a href="https://open.spotify.com/user/senhan07">
+<a href="https://discord.com/users/288949391748759553">
   <img align="right" src="https://lanyard.cnrad.dev/api/288949391748759553?idleMessage=Probably%20doing%20something%20else...&bg=0d1117"/>
 </a>
 
