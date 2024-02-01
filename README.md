@@ -1,9 +1,12 @@
 # Hi ! 👋
-I'm a Network Engineer and also Graphic Designer 👀
-<a href="https://discord.com/users/288949391748759553">
-  <img align="right" src="https://lanyard.cnrad.dev/api/288949391748759553?idleMessage=Probably%20doing%20something%20else...&bg=0d1117"/>
-</a>
 
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://discord.com/users/288949391748759553">
+    <img align="right" src="https://lanyard.cnrad.dev/api/288949391748759553?idleMessage=Probably%20doing%20something%20else...&bg=0d1117"/>
+  </a>
+</div>
+
+I'm a Network Engineer and also Graphic Designer 👀 
 - Website [senhan.my.id](https://senhan.my.id/)
 - Instagram [@senhan07](https://instagram.com/senhan07)
 
