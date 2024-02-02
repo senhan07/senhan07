@@ -26,5 +26,3 @@
 4. ❗ Opened issue [#4](https://github.com/jsmsj/sa-drive/issues/4) in [jsmsj/sa-drive](https://github.com/jsmsj/sa-drive)
 5. ❗ Opened issue [#92](https://github.com/picobyte/stable-diffusion-webui-wd14-tagger/issues/92) in [picobyte/stable-diffusion-webui-wd14-tagger](https://github.com/picobyte/stable-diffusion-webui-wd14-tagger)
 <!--END_SECTION:activity-->
-
----
