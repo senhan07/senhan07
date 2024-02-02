@@ -2,6 +2,12 @@
 <h4 align="center">I'm a Network Engineer and Graphic Designer </h3>
 
 <div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=senhan07&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
   <a href="https://discord.com/users/288949391748759553">
     <img align="right" src="https://lanyard.cnrad.dev/api/288949391748759553?idleMessage=Probably%20doing%20something%20else...&bg=0d1117" width="45%"/>
   </a>
