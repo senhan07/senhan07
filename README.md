@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋</h1>
-<h6 align="center">I'm a Network Engineer and Graphic Designer </h3>
+<h2 align="center">Hi 👋</h1>
+<h5 align="center">I'm a Network Engineer and Graphic Designer </h3>
 
 ---
 
