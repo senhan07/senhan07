@@ -26,9 +26,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/senhan07/watermark-remover/pull/1) in [senhan07/watermark-remover](https://github.com/senhan07/watermark-remover)
-2. 🗣 Commented on [#4](https://github.com/senhan07/adguard-custom-block-page/issues/4#issuecomment-1920520058) in [senhan07/adguard-custom-block-page](https://github.com/senhan07/adguard-custom-block-page)
-3. 🗣 Commented on [#4](https://github.com/senhan07/adguard-custom-block-page/issues/4#issuecomment-1920497634) in [senhan07/adguard-custom-block-page](https://github.com/senhan07/adguard-custom-block-page)
-4. 💪 Opened PR [#1](https://github.com/withfabian/webtools/pull/1) in [withfabian/webtools](https://github.com/withfabian/webtools)
-5. ❗ Opened issue [#4](https://github.com/jsmsj/sa-drive/issues/4) in [jsmsj/sa-drive](https://github.com/jsmsj/sa-drive)
+1. 🎉 Merged PR [#10](https://github.com/senhan07/CropSense-Face-Detection/pull/10) in [senhan07/CropSense-Face-Detection](https://github.com/senhan07/CropSense-Face-Detection)
+2. 💪 Opened PR [#10](https://github.com/senhan07/CropSense-Face-Detection/pull/10) in [senhan07/CropSense-Face-Detection](https://github.com/senhan07/CropSense-Face-Detection)
+3. 🎉 Merged PR [#1](https://github.com/senhan07/watermark-remover/pull/1) in [senhan07/watermark-remover](https://github.com/senhan07/watermark-remover)
+4. 🗣 Commented on [#4](https://github.com/senhan07/adguard-custom-block-page/issues/4#issuecomment-1920520058) in [senhan07/adguard-custom-block-page](https://github.com/senhan07/adguard-custom-block-page)
+5. 🗣 Commented on [#4](https://github.com/senhan07/adguard-custom-block-page/issues/4#issuecomment-1920497634) in [senhan07/adguard-custom-block-page](https://github.com/senhan07/adguard-custom-block-page)
 <!--END_SECTION:activity-->
