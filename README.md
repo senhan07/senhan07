@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi <img src="https://i.gifer.com/origin/e0/e08f73642d422d94483c0ca96f737ac2.webp" style="width: 5%;"></h1>
 <h4 align="center">I'm a Network Engineer and Graphic Designer </h3>
 
 <div align="center">
@@ -19,9 +19,11 @@
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=senhan07&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" width="45%">
+    <img src="https://i.gifer.com/origin/63/6366b74caefaa591257329b88094a74c.webp" style="width: 15%;">
+    <img src="https://i.gifer.com/origin/7d/7df34881e1e46868228057e16bd3572e.webp" style="width: 15%;">
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 9999px; height: 7px;">
 
 ### :zap: Recent Activity
 
