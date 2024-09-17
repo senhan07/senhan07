@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#363](https://github.com/metatube-community/jellyfin-plugin-metatube/issues/363) in [metatube-community/jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube)
-2. ❌ Closed PR [#1](https://github.com/withfabian/webtools/pull/1) in [withfabian/webtools](https://github.com/withfabian/webtools)
-3. 🎉 Merged PR [#1](https://github.com/senhan07/watermark-remover/pull/1) in [senhan07/watermark-remover](https://github.com/senhan07/watermark-remover)
+1. ❗ Opened issue [#294](https://github.com/chflame163/ComfyUI_LayerStyle/issues/294) in [chflame163/ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle)
+2. ❗ Opened issue [#363](https://github.com/metatube-community/jellyfin-plugin-metatube/issues/363) in [metatube-community/jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube)
+3. ❌ Closed PR [#1](https://github.com/withfabian/webtools/pull/1) in [withfabian/webtools](https://github.com/withfabian/webtools)
 4. 🗣 Commented on [#4](https://github.com/senhan07/adguard-custom-block-page/issues/4#issuecomment-1920520058) in [senhan07/adguard-custom-block-page](https://github.com/senhan07/adguard-custom-block-page)
 5. 🗣 Commented on [#4](https://github.com/senhan07/adguard-custom-block-page/issues/4#issuecomment-1920497634) in [senhan07/adguard-custom-block-page](https://github.com/senhan07/adguard-custom-block-page)
 <!--END_SECTION:activity-->
