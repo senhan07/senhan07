@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#50](https://github.com/djbielejeski/a-person-mask-generator/issues/50) in [djbielejeski/a-person-mask-generator](https://github.com/djbielejeski/a-person-mask-generator)
-2. ❗ Opened issue [#294](https://github.com/chflame163/ComfyUI_LayerStyle/issues/294) in [chflame163/ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle)
-3. ❗ Opened issue [#363](https://github.com/metatube-community/jellyfin-plugin-metatube/issues/363) in [metatube-community/jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube)
+1. ❗ Opened issue [#80](https://github.com/Carve/qbittorrent-webui-cjratliff.com/issues/80) in [Carve/qbittorrent-webui-cjratliff.com](https://github.com/Carve/qbittorrent-webui-cjratliff.com)
+2. ❗ Opened issue [#50](https://github.com/djbielejeski/a-person-mask-generator/issues/50) in [djbielejeski/a-person-mask-generator](https://github.com/djbielejeski/a-person-mask-generator)
+3. ❗ Opened issue [#294](https://github.com/chflame163/ComfyUI_LayerStyle/issues/294) in [chflame163/ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle)
 4. ❌ Closed PR [#1](https://github.com/withfabian/webtools/pull/1) in [withfabian/webtools](https://github.com/withfabian/webtools)
 5. 🗣 Commented on [#4](https://github.com/senhan07/adguard-custom-block-page/issues/4#issuecomment-1920497634) in [senhan07/adguard-custom-block-page](https://github.com/senhan07/adguard-custom-block-page)
 <!--END_SECTION:activity-->
