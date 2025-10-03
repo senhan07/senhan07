@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/senhan07/Blackbox-Targets-Manager/pull/1) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
-2. 💪 Opened PR [#1](https://github.com/senhan07/Blackbox-Targets-Manager/pull/1) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
-3. ❗ Opened issue [#50](https://github.com/djbielejeski/a-person-mask-generator/issues/50) in [djbielejeski/a-person-mask-generator](https://github.com/djbielejeski/a-person-mask-generator)
-4. ❗ Opened issue [#294](https://github.com/chflame163/ComfyUI_LayerStyle/issues/294) in [chflame163/ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle)
+1. 🎉 Merged PR [#2](https://github.com/senhan07/Blackbox-Targets-Manager/pull/2) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
+2. 💪 Opened PR [#2](https://github.com/senhan07/Blackbox-Targets-Manager/pull/2) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
+3. 🎉 Merged PR [#1](https://github.com/senhan07/Blackbox-Targets-Manager/pull/1) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
+4. 💪 Opened PR [#1](https://github.com/senhan07/Blackbox-Targets-Manager/pull/1) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
 5. 🗣 Commented on [#4](https://github.com/senhan07/adguard-custom-block-page/issues/4#issuecomment-1920497634) in [senhan07/adguard-custom-block-page](https://github.com/senhan07/adguard-custom-block-page)
 <!--END_SECTION:activity-->
