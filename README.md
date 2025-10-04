@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/senhan07/Blackbox-Targets-Manager/pull/2) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
-2. 💪 Opened PR [#2](https://github.com/senhan07/Blackbox-Targets-Manager/pull/2) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
-3. 🎉 Merged PR [#1](https://github.com/senhan07/Blackbox-Targets-Manager/pull/1) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
-4. 💪 Opened PR [#1](https://github.com/senhan07/Blackbox-Targets-Manager/pull/1) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
-5. 🗣 Commented on [#4](https://github.com/senhan07/adguard-custom-block-page/issues/4#issuecomment-1920497634) in [senhan07/adguard-custom-block-page](https://github.com/senhan07/adguard-custom-block-page)
+1. 🎉 Merged PR [#3](https://github.com/senhan07/Blackbox-Targets-Manager/pull/3) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
+2. 💪 Opened PR [#3](https://github.com/senhan07/Blackbox-Targets-Manager/pull/3) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
+3. 🎉 Merged PR [#2](https://github.com/senhan07/Blackbox-Targets-Manager/pull/2) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
+4. 💪 Opened PR [#2](https://github.com/senhan07/Blackbox-Targets-Manager/pull/2) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
+5. 🎉 Merged PR [#1](https://github.com/senhan07/Blackbox-Targets-Manager/pull/1) in [senhan07/Blackbox-Targets-Manager](https://github.com/senhan07/Blackbox-Targets-Manager)
 <!--END_SECTION:activity-->
