@@ -16,9 +16,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](undefined) in [senhan07/PBXR-stable](https://github.com/senhan07/PBXR-stable)
-2. ❌ Closed PR [#3](undefined) in [senhan07/PBXR-stable](https://github.com/senhan07/PBXR-stable)
-3. ❌ Closed PR [#2](undefined) in [senhan07/PBXR](https://github.com/senhan07/PBXR)
-4. ❌ Closed PR [#10](undefined) in [senhan07/PBXR](https://github.com/senhan07/PBXR)
-5. ❌ Closed PR [#11](undefined) in [senhan07/PBXR](https://github.com/senhan07/PBXR)
+1. 💪 Opened PR [#8](https://github.com/senhan07/PBXR-stable/pull/8) in [senhan07/PBXR-stable](https://github.com/senhan07/PBXR-stable)
+2. ❌ Closed PR [#3](https://github.com/senhan07/PBXR-stable/pull/3) in [senhan07/PBXR-stable](https://github.com/senhan07/PBXR-stable)
+3. ❌ Closed PR [#2](https://github.com/senhan07/PBXR/pull/2) in [senhan07/PBXR](https://github.com/senhan07/PBXR)
+4. ❌ Closed PR [#10](https://github.com/senhan07/PBXR/pull/10) in [senhan07/PBXR](https://github.com/senhan07/PBXR)
+5. ❌ Closed PR [#11](https://github.com/senhan07/PBXR/pull/11) in [senhan07/PBXR](https://github.com/senhan07/PBXR)
 <!--END_SECTION:activity-->
